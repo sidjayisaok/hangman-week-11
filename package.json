@@ -1,0 +1,25 @@
+{
+  "name": "hangman-week-11",
+  "version": "1.0.0",
+  "description": "hangman game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidjayisaok/hangman-week-11.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Sid Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidjayisaok/hangman-week-11/issues"
+  },
+  "homepage": "https://github.com/sidjayisaok/hangman-week-11#readme",
+  "dependencies": {
+    "inquirer": "^1.1.2"
+  }
+}
