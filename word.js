@@ -1,10 +1,10 @@
+//exports
 var selectWord = require('./game.js');
 var userLetter = require('./letter');
 var letterObject = new userLetter(selectWord());
 var wordObject = new Word();
 
-console.log(wordObject);
-
+//parameters for hangman game
 function Word (words) {
 	this.guessedLetters = [];
 	this.guessCount = 10;
